@@ -1,6 +1,9 @@
 # meals_apps
 
 A new Flutter project.
+Learned RealTime databases in FIREBASE 
+CRUD IN FIREBASE 
+CONNECTING FLUTTER APPS TO DATABASES.
 
 ## Getting Started
 
